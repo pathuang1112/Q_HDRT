@@ -1,0 +1,26 @@
+{
+  "adder_n7": {
+    "input_qubits": 7,
+    "output_qubits": 7
+  },
+  "qft_8": {
+    "input_qubits": 8,
+    "output_qubits": 8
+  },
+  "pe_9": {
+    "input_qubits": 9,
+    "output_qubits": 9
+  },
+  "rand_cliff_8_AG": {
+    "input_qubits": 8,
+    "output_qubits": 8
+  },
+  "IQFT": {
+    "input_qubits": 10,
+    "output_qubits": 10
+  },
+  "QAOA_12": {
+    "input_qubits": 12,
+    "output_qubits": 12
+  }
+}

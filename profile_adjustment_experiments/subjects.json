@@ -1,0 +1,190 @@
+{
+  "settings": {
+    "classification_method": "type_clustering",
+    "distance_metric": "hybrid",
+    "n_clusters": 5,
+    "use_mixstate": true
+  },
+  "subjects": [
+    {
+      "program": "adder_n7",
+      "group": "adder_n7_1",
+      "input_qubits": 7,
+      "output_qubits": 7
+    },
+    {
+      "program": "adder_n7",
+      "group": "adder_n7_2",
+      "input_qubits": 7,
+      "output_qubits": 7
+    },
+    {
+      "program": "adder_n7",
+      "group": "adder_n7_3",
+      "input_qubits": 7,
+      "output_qubits": 7
+    },
+    {
+      "program": "adder_n7",
+      "group": "adder_n7_4",
+      "input_qubits": 7,
+      "output_qubits": 7
+    },
+    {
+      "program": "adder_n7",
+      "group": "adder_n7_5",
+      "input_qubits": 7,
+      "output_qubits": 7
+    },
+    {
+      "program": "qft_8",
+      "group": "qft_8_1",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "qft_8",
+      "group": "qft_8_2",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "qft_8",
+      "group": "qft_8_3",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "qft_8",
+      "group": "qft_8_4",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "qft_8",
+      "group": "qft_8_5",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "pe_9",
+      "group": "pe_9_1",
+      "input_qubits": 9,
+      "output_qubits": 9
+    },
+    {
+      "program": "pe_9",
+      "group": "pe_9_2",
+      "input_qubits": 9,
+      "output_qubits": 9
+    },
+    {
+      "program": "pe_9",
+      "group": "pe_9_3",
+      "input_qubits": 9,
+      "output_qubits": 9
+    },
+    {
+      "program": "pe_9",
+      "group": "pe_9_4",
+      "input_qubits": 9,
+      "output_qubits": 9
+    },
+    {
+      "program": "pe_9",
+      "group": "pe_9_5",
+      "input_qubits": 9,
+      "output_qubits": 9
+    },
+    {
+      "program": "rand_cliff_8_AG",
+      "group": "rand_cliff_8_AG_1",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "rand_cliff_8_AG",
+      "group": "rand_cliff_8_AG_2",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "rand_cliff_8_AG",
+      "group": "rand_cliff_8_AG_3",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "rand_cliff_8_AG",
+      "group": "rand_cliff_8_AG_4",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "rand_cliff_8_AG",
+      "group": "rand_cliff_8_AG_5",
+      "input_qubits": 8,
+      "output_qubits": 8
+    },
+    {
+      "program": "IQFT",
+      "group": "IQFT_1",
+      "input_qubits": 10,
+      "output_qubits": 10
+    },
+    {
+      "program": "IQFT",
+      "group": "IQFT_2",
+      "input_qubits": 10,
+      "output_qubits": 10
+    },
+    {
+      "program": "IQFT",
+      "group": "IQFT_3",
+      "input_qubits": 10,
+      "output_qubits": 10
+    },
+    {
+      "program": "IQFT",
+      "group": "IQFT_4",
+      "input_qubits": 10,
+      "output_qubits": 10
+    },
+    {
+      "program": "IQFT",
+      "group": "IQFT_5",
+      "input_qubits": 10,
+      "output_qubits": 10
+    },
+    {
+      "program": "QAOA_12",
+      "group": "QAOA_12_1",
+      "input_qubits": 12,
+      "output_qubits": 12
+    },
+    {
+      "program": "QAOA_12",
+      "group": "QAOA_12_2",
+      "input_qubits": 12,
+      "output_qubits": 12
+    },
+    {
+      "program": "QAOA_12",
+      "group": "QAOA_12_3",
+      "input_qubits": 12,
+      "output_qubits": 12
+    },
+    {
+      "program": "QAOA_12",
+      "group": "QAOA_12_4",
+      "input_qubits": 12,
+      "output_qubits": 12
+    },
+    {
+      "program": "QAOA_12",
+      "group": "QAOA_12_5",
+      "input_qubits": 12,
+      "output_qubits": 12
+    }
+  ]
+}
