@@ -97,7 +97,6 @@ supplemental labels produced by a different statistical test.
 ## Supporting Files
 
 - `programs_OpenQASM/`: reference programs and faulty versions.
-- `programs_ST/`: IQFT compatibility implementation.
 - `TestCases/`: generated test suites.
 - `oracle/OpenQASM/`: main-experiment oracle workbooks.
 
